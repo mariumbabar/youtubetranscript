@@ -6,3 +6,6 @@ Installation Guide:
 Download the repository 
 
 Replace the Youtube Code 
+Select the URL after v= and copy paste it in place of vid_id
+
+Run the program 
